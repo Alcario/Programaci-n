@@ -1,0 +1,28 @@
+#padre{
+    width: 600px;
+    height: 200px;
+    background-color: orange;
+}
+
+.hijos{
+    height: 60px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#hijo1{
+    width: 50%;
+    background-color: green;
+    text-align: end;
+}
+
+#hijo2{
+    width: 100%;
+    background-color: red;
+    text-align: center;
+}
+
+#hijo3{
+    width: 33%;
+    background-color: blue;
+}

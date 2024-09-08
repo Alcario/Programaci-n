@@ -1,0 +1,29 @@
+table{
+    border: 4px solid black;
+    border-top: 4px solid gray;
+    border-left: 4px solid gray;
+}
+
+th{
+    height: 50px;
+}
+
+.rectangulo{
+    width: 100px;
+    height: 150px;
+    background-color: red;
+}
+
+#color1{
+    background-color: blue;
+}
+
+#color2{
+    background-color: yellow;
+}
+
+.bordes{
+    border: 1px solid black;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: orange;
+}
+
+nav{
+    width: 100vw;
+    height: 5vh;
+    background-color: blue;
+}
+
+main{
+    width: 70vw;
+    height: 75vh;
+    background-color: green;
+}
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: red;
+}
+
+center{
+    margin: 0;
+    padding: 0;
+}

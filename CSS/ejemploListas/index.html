@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aprendiendo CSS">
+    <meta name="keywords" content="CSS, Hojas de estilo en cascada, Aprendiendo, primeros pasos">
+    <meta name="author" content="Caminos Albano">
+    <title>Aprendiendo CSS</title>
+</head>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .listas{
+        list-style: none;
+        list-style-type: '\1F600';
+    }
+    .segundoNiv{
+        list-style: none;
+        list-style-type: '\1F923';
+    }
+
+    .cuadrado{
+        background-color: red;
+        width: 100px;
+        height: 100px;
+    }
+    #largoPantalla{
+        background-color: blue;
+        width: 100vw;
+        height: 100px;
+    }
+    #cuadradoInterno{
+        background-color: green;
+        width: 50%;
+        height: 50px;
+    }
+
+    #circulo{
+        border-radius: 50%;
+        color: white;
+        line-height: 100px;
+        text-align: center;
+    }
+</style>
+<body>
+    <main>
+        <section>
+            <ul>
+                <li class="listas">Lorem, ipsum dolor.</li>
+                <ul>
+                    <li class="segundoNiv">Lorem, ipsum dolor.</li>
+                    <li class="segundoNiv">Obcaecati, voluptatibus placeat?</li>
+                </ul>
+                <li class="listas">Ipsam, aperiam sapiente.</li>
+                <li class="listas">Pariatur, enim sint!</li>
+            </ul>
+        </section>
+        <section>
+            <br>
+            <div class="cuadrado"></div>
+            <br>
+            <div id="largoPantalla">
+                <div id="cuadradoInterno"></div>
+            </div>
+            <br>
+            <div id="circulo" class="cuadrado">Circulo</div>
+        </section>
+    </main>
+</body>
+</html>

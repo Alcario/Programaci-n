@@ -1,0 +1,13 @@
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+#chanfle1{
+    border-radius: 10%;
+}
+
+#chanfle2{
+    border-radius: 50%;
+}

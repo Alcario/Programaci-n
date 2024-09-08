@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0
+}
+section{
+    width: 100vw;
+    height: 100px;
+    background-color: red;
+}
+
+#son{
+    width: 50%;
+    height: 50px;
+    background-color: blue;
+}

@@ -1,0 +1,16 @@
+.decorador{
+    list-style: none;
+    list-style-type: square;
+}
+
+#color1{
+    color: red;
+}
+
+#color2{
+    color: green;
+}
+
+#color3{
+    color: blue;
+}

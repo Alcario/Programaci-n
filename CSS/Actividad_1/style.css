@@ -1,0 +1,33 @@
+.parrafos{
+    color: blue;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+#p1{
+    font-size: 9px;
+}
+
+#p2{
+    font-size: 12px;
+}
+
+#p3{
+    font-size: 14px;
+}
+
+#p4{
+    font-size: 18px;
+}
+
+#p5{
+    font-size: 24px;
+}
+
+#p6{
+    font-size: 36px;
+}
+
+#p7{
+    font-size: 48px;
+}

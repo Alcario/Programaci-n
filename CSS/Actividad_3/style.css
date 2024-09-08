@@ -1,0 +1,29 @@
+.inclinacion{
+    font-style: italic;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman';
+}
+
+#facebook{
+    color: blue;
+}
+
+#instagram{
+    color: purple;
+}
+
+#tiktok{
+    color: rgb(39, 38, 38);
+}
+
+#whatsapp{
+    color: green;
+}
+
+#twitter{
+    color: rgb(0, 136, 255);
+}
+
+#youtube{
+    color: red;
+}
