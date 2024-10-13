@@ -1,0 +1,26 @@
+div{
+    width: 300px;
+    height: 300px;
+}
+
+#filtro1{
+    background-color: red;
+    border: 2px solid red;
+}
+
+#filtro2{
+    background-color: blue;
+    border: 2px solid blue;
+}
+
+#filtro3{
+    background-color: green;
+    border: 2px solid green;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    opacity: 0.7;
+}
